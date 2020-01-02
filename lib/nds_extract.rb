@@ -19,7 +19,8 @@ end
 # The return value should be like:
 #
 # { directorOne => allTheMoneyTheyMade, ... }
-#def directors_totals(nds)
- # result = {}
-  #nil
-#end
+def directors_totals(nds)
+  result = {}
+  row_index = 0 
+  
+end
